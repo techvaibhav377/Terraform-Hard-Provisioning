@@ -1,0 +1,14 @@
+$TTL 1M
+@       IN SOA  @ rname.invalid. (
+                                        0       ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+your_website_name.     IN      NS      ns1.your_website_name.
+your_website_name.     IN      NS      ns2.your_website_name.
+ns1                    IN      A       ns_ip
+ns2                    IN      A       ns_ip
+your_website_name.     IN      A       ns_ip
+photo                  IN      A       ns_ip
+mail                   IN      A       ns_ip
