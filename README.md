@@ -2,7 +2,7 @@
 
 ## **Terraform Project: Deploying a Web Server with DNS Configuration**
 
-Automate the deployment of a web server and configure DNS using AWS resources with Terraform. This project is designed for scalability and modularity, with separate files for each component.
+🚀 Automate the deployment of a web server and configure DNS using AWS resources with Terraform. This project is designed for scalability and modularity, with separate files for each component.
 
 ## **Project Structure**
 
